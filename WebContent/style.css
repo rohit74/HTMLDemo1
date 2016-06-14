@@ -1,0 +1,33 @@
+@CHARSET "ISO-8859-1";
+
+.div{
+	margin-top: px;
+	height:300px;
+	color: red;
+	border-width:10px;
+	border-color:black;
+	border-style: dotted;
+	
+	cursor: default;
+	
+	/* background : url('29sep06durga.jpg') repeat-x; */
+	
+	background-color: yellow;
+	word-spacing:2px;
+	text-decoration:underline;
+	text-transform:capitalize;
+	text-align: center;
+}
+.heading1{
+	font-variant: inherit;
+	z-index: -1;
+	background-color:red;
+	float: right;
+	color: black;
+	text-transform: lowercase;
+	
+	
+}
+#div2 {
+	visibility: hidden;
+}
